@@ -1,8 +1,8 @@
 {
   "name": "aem-sync-webpack-plugin",
-  "email" : "lukaszblasz@gmail.com",
-  "url" : "https://github.com/lukaszblasz/aem-sync-webpack-plugin",
-  "version": "0.1.1",
+  "email": "lukaszblasz@gmail.com",
+  "url": "https://github.com/lukaszblasz/aem-sync-webpack-plugin",
+  "version": "0.1.2",
   "description": "Webpack plugin for aemsync",
   "main": "src/aem-sync-webpack-plugin.js",
   "scripts": {
