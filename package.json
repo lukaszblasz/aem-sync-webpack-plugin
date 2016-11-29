@@ -1,0 +1,15 @@
+{
+  "name": "aem-sync-webpack-plugin",
+  "version": "0.1.0",
+  "description": "Webpack plugin for aemsync",
+  "main": "src/aem-sync-webpack-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Łukasz Błaszyński",
+  "license": "MIT",
+  "dependencies": {
+    "aemsync": "^1.1.1",
+    "chalk": "^1.1.3"
+  }
+}
